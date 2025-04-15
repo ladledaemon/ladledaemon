@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ladledaemon
-- 👀 I’m interested in robotics
+- 👀 I’m interested in robotics, powered exoskeleton
 <!---
 - 🌱 I’m currently learning control
 - 💞️ I’m looking to collaborate on ...
