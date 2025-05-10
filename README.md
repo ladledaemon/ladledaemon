@@ -8,7 +8,7 @@
 - ⚡ Fun fact: ...
 --->
 [Kyoto University Mechatronics Creators](https://kikaiken.org/) (software)
-- [NHK College student Robocon](https://official-robocon.com/gakusei/) (2024・2025)
+- [NHK College Student Robocon](https://official-robocon.com/gakusei/) (2024・2025)
 - [Catchrobo Battle Contest](https://catchrobo.net/) (2023)
 <!---
 ladledaemon/ladledaemon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
