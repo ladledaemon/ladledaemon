@@ -17,12 +17,10 @@
 - 💡 Interested in:
   - Human-robot interaction
   - biomechanics
-<!---
+
 ## Past Projects
---->
-## Robot Competition Experience
-- [NHK College student Robocon](https://official-robocon.com/gakusei/) (2024・2025)
-- [Catchrobo Battle Contest](https://catchrobo.net/) (2023)
+- [NHK College student Robocon](https://official-robocon.com/gakusei/) (2024)(low-level control systems)
+- [Catchrobo Battle Contest](https://catchrobo.net/) (2023)(low-level control systems)
 
 ---
 <!---
