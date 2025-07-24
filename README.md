@@ -5,12 +5,10 @@
 - 👀 Passionate about **robotics** and **powered exoskeleton** technology
 - 🤖 Member of [Kyoto University Mechatronics Creators](https://kikaiken.org/) - Focusing on low-level control systems
 
+<!---
 ## Current & Future Projects
 
 - 🔍 Working on:
-  - Low-level control systems for NHK Robocon 2025
-  - Giant claw machine project (software & circuits) for [67th Kyoto University November Festival](https://www.nf.la/en)
-<!---
 - 🚀 Planning to:
   - Develop advanced powered exoskeleton prototypes
 --->
@@ -19,7 +17,8 @@
   - biomechanics
 
 ## Past Projects
-- [NHK College student Robocon](https://official-robocon.com/gakusei/) (2024)(low-level control systems)
+- [NHK College student Robocon](https://official-robocon.com/gakusei/) (2024・2025)(low-level control systems)
+  - 2025:Special Award(Hitachi High-Tech)
 - [Catchrobo Battle Contest](https://catchrobo.net/) (2023)(low-level control systems)
 
 ---
