@@ -19,7 +19,7 @@
 ## Past Projects
 - [NHK College student Robocon](https://official-robocon.com/gakusei/) (2024・2025)(low-level control systems)
   - 2025:Special Award(Hitachi High-Tech)
-- [Catchrobo Battle Contest](https://catchrobo.net/) (2023)(low-level control systems)
+- [Catchrobo Battle Contest](https://catchrobo.net/) (13th)(low-level control systems)
 
 ---
 <!---
