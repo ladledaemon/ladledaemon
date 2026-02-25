@@ -4,7 +4,9 @@
 - 🎓 Student at [**Kyoto University**](https://www.kyoto-u.ac.jp/en), [Mechanical and Systems Engineering Undergraduate Course Program](https://www.s-es.t.kyoto-u.ac.jp/mec/en/index.html?set_language=en)
 - 👀 Passionate about **robotics** and **powered exoskeleton** technology
 - 🤖 Member of [Kyoto University Mechatronics Creators](https://kikaiken.org/) - Focusing on low-level control systems
-
+- 💡 Interested in:
+  - Human-robot interaction
+  - biomechanics
 <!---
 ## Current & Future Projects
 
@@ -12,14 +14,14 @@
 - 🚀 Planning to:
   - Develop advanced powered exoskeleton prototypes
 --->
-- 💡 Interested in:
-  - Human-robot interaction
-  - biomechanics
 
 ## Past Projects
-- [NHK College student Robocon](https://official-robocon.com/gakusei/) (2024・2025)(low-level control systems)
-  - 2025:Special Award(Hitachi High-Tech)
-- [Catchrobo Battle Contest](https://catchrobo.net/) (13th)(low-level control systems)
+- [NHK College student Robocon](https://official-robocon.com/gakusei/)
+  - 2024:low-level control systems
+  - 2025:low-level control systems and ROS 2
+    - Special Award(Hitachi High-Tech)
+- [Catchrobo Battle Contest](https://catchrobo.net/)
+  - 13th:low-level control systems
 
 ---
 <!---
