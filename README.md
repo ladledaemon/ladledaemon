@@ -15,6 +15,28 @@
   - Develop advanced powered exoskeleton prototypes
 --->
 
+## Skills
+
+### Programming Language
+
+[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
+
+### Environment
+
+[![Environment](https://skillicons.dev/icons?i=ubuntu,raspberrypi,arduino)](https://skillicons.dev)
+
+### Ecosystem
+
+[![Ecosystem](https://skillicons.dev/icons?i=ros)](https://skillicons.dev)
+
+### Editor/Tool
+
+[![Editor/tool](https://skillicons.dev/icons?i=vscode,git,github,gitlab)](https://skillicons.dev)
+
+### documentation
+
+[![documentation](https://skillicons.dev/icons?i=latex)](https://skillicons.dev)
+
 ## Past Projects
 - [NHK College student Robocon](https://official-robocon.com/gakusei/)
   - 2024:low-level control systems
