@@ -4,6 +4,7 @@
 - 🎓 Student at [**Kyoto University**](https://www.kyoto-u.ac.jp/en), [Mechanical and Systems Engineering Undergraduate Course Program](https://www.s-es.t.kyoto-u.ac.jp/mec/en/index.html?set_language=en)
 - 👀 Passionate about **robotics** and **powered exoskeleton** technology
 - 🤖 Member of [Kyoto University Mechatronics Creators](https://kikaiken.org/) - Focusing on low-level control systems
+- ✒ Member of TIKA(X:@TIKAhs_circle)
 - 💡 Interested in:
   - Human-robot interaction
   - biomechanics
