@@ -27,6 +27,8 @@
 
 [![Environment](https://skillicons.dev/icons?i=ubuntu,raspberrypi,arduino)](https://skillicons.dev)
 
+- STM32
+
 ### Ecosystem
 
 [![Ecosystem](https://skillicons.dev/icons?i=ros)](https://skillicons.dev)
@@ -34,6 +36,8 @@
 ### Editor/Tool
 
 [![Editor/tool](https://skillicons.dev/icons?i=vscode,git,github,gitlab)](https://skillicons.dev)
+
+- STM32CubeIDE
 
 ### documentation
 
